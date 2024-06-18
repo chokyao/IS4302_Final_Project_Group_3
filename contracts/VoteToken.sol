@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "./ERC20.sol";
-
+//im adding comment
 contract VoteToken {
     ERC20 erc20Contract;
     address owner;
