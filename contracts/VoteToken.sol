@@ -12,7 +12,7 @@ contract VoteToken {
         erc20Contract = e;
         owner = msg.sender;
     }
-
+    // TESTTEST
     /**
     * @dev Function to give VT to the recipient for a given wei amount
     * @param recipient address of the recipient that wants to buy the VT
